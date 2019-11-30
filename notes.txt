@@ -1,0 +1,13 @@
+[{
+ time: "T+ 0:00",
+ amount: "2.0g",
+ ing_method: "oral",
+ substance: {
+  name: "Mushrooms - P cubensis"
+  url: "blablabla"
+ },
+ ing_form: "(dried)"
+ },
+ ...
+ }
+]
